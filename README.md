@@ -1,6 +1,6 @@
 # odin-recipes
-<<<<<<< HEAD
-My first proj
+
+My first project
 
 My project
 According to this file, you can see how I created my first Website.
