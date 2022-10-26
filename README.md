@@ -12,3 +12,4 @@ Firstly, I would like to demonstrate my HTML skills and how I can prepare a webs
 How I can prepare a website through HTML.
 
 >>>>>>> f09e995cf9eff4b011073312798fff7b33930334
+The last verasion
